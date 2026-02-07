@@ -1,0 +1,4 @@
+{
+  "/api/ai/analyze-brand/route": "app/api/ai/analyze-brand/route.js",
+  "/(dashboard)/branding/page": "app/(dashboard)/branding/page.js"
+}
